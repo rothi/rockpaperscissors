@@ -1,0 +1,11 @@
+H:\Comp Program\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+H:\Comp Program\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+H:\Comp Program\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+H:\Comp Program\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.xml
+H:\Comp Program\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.lblTitle.resources
+H:\Comp Program\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Resources.resources
+H:\Comp Program\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.vbproj.GenerateResource.Cache
+H:\Comp Program\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+H:\Comp Program\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.xml
+H:\Comp Program\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+H:\Comp Program\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.vbprojResolveAssemblyReference.cache
